@@ -1,6 +1,6 @@
 import java.util.Scanner; //S is capital as it is case sensitive.
 
-public class userinput {
+public class usrinput {
 
     public static void main(String[] args) {
 
